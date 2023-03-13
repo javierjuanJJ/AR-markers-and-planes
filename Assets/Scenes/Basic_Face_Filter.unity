@@ -536,6 +536,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Face_Reference_Mesh
       objectReference: {fileID: 0}
+    - target: {fileID: 5144371116797735247, guid: cc74ace9e91affa4c9324b16e3fc1e14,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5489794396196072437, guid: cc74ace9e91affa4c9324b16e3fc1e14,
         type: 3}
       propertyPath: m_RootOrder
