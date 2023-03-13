@@ -370,5 +370,25 @@ PrefabInstance:
       propertyPath: m_Name
       value: Rain_VFX
       objectReference: {fileID: 0}
+    - target: {fileID: 3377726220521981880, guid: 9270ac02681064c4ebd9dfd488853e98,
+        type: 3}
+      propertyPath: EmissionModule.rateOverTime.scalar
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 3377726220521981880, guid: 9270ac02681064c4ebd9dfd488853e98,
+        type: 3}
+      propertyPath: InitialModule.startColor.maxColor.b
+      value: 0.8301887
+      objectReference: {fileID: 0}
+    - target: {fileID: 3377726220521981880, guid: 9270ac02681064c4ebd9dfd488853e98,
+        type: 3}
+      propertyPath: InitialModule.startColor.maxColor.g
+      value: 0.504406
+      objectReference: {fileID: 0}
+    - target: {fileID: 3377726220521981880, guid: 9270ac02681064c4ebd9dfd488853e98,
+        type: 3}
+      propertyPath: InitialModule.startColor.maxColor.r
+      value: 0.09789959
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9270ac02681064c4ebd9dfd488853e98, type: 3}
