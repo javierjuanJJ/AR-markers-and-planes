@@ -111,6 +111,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: fb8a0115d8814bd49b4609e9566545e8,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: fb8a0115d8814bd49b4609e9566545e8,
         type: 3}
       propertyPath: m_Name
@@ -184,6 +189,11 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 6b3199884720a1f429171a2626184a1e,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 6b3199884720a1f429171a2626184a1e,
+        type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 6b3199884720a1f429171a2626184a1e,
@@ -261,6 +271,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 4319d6c4e2307d9419676adbd0273a88,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 4319d6c4e2307d9419676adbd0273a88,
         type: 3}
       propertyPath: m_Name
@@ -285,6 +300,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Glasses_steampunk
+      objectReference: {fileID: 0}
+    - target: {fileID: 8468937954700161389, guid: a5aeea5782cdc74449a985ac6298b8bd,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9136790579597388759, guid: a5aeea5782cdc74449a985ac6298b8bd,
         type: 3}
